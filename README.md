@@ -73,6 +73,16 @@ I'm a **Cybersecurity & AI Engineer** 🔒🤖 with expertise in **Threat Detect
 ### Fun Fact
 *"Security is not a product, but a process." – Bruce Schneier*
 
+---
+
+### Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anish-vempaty/anish-vempaty/output/snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/anish-vempaty/anish-vempaty/output/snake.svg" />
+</picture>
+
+
 
 <!--
 **anish-vempaty/anish-vempaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
