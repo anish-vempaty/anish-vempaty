@@ -49,9 +49,9 @@ I'm a **Cybersecurity & AI Engineer** 🔒🤖 with expertise in **Threat Detect
 
 ### 📊 GitHub Stats
 
-![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anish-vempaty&show_icons=true&theme=transparent&hide_border=true&border_radius=12&cache_seconds=86400)
+![Anish's GitHub stats](https://github-readme-stats-ten-ashen-88.vercel.app/api?username=anish-vempaty&show_icons=true&count_private=true&theme=transparent&hide_border=true&border_radius=12)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anish-vempaty&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=12&cache_seconds=259200)
+![Top Languages](https://github-readme-stats-ten-ashen-88.vercel.app/api/top-langs/?username=anish-vempaty&layout=compact&langs_count=8&count_private=true&theme=radical&hide_border=true&border_radius=12)
 
 ---
 
