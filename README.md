@@ -77,10 +77,8 @@ I'm a **Cybersecurity & AI Engineer** 🔒🤖 with expertise in **Threat Detect
 
 ### Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anish-vempaty/anish-vempaty/output/snake-dark.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/anish-vempaty/anish-vempaty/output/snake.svg" />
-</picture>
+![github contribution snake](https://raw.githubusercontent.com/anish-vempaty/anish-vempaty/output/snake.svg)
+
 
 
 
