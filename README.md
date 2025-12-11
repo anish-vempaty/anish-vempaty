@@ -65,7 +65,7 @@ I'm a **Cybersecurity & AI Engineer** 🔒🤖 with expertise in **Threat Detect
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/anish-vempaty)](https://linkedin.com/in/anish-vempaty)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web&logoColor=white&link=https://anish-vempaty.github.io/Anish_protfolio/)](https://anish-vempaty.github.io/Anish_protfolio/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web&logoColor=white&link=https://anish-vempaty.github.io/Anish_protfolio/)](https://anish-vempaty.github.io/Anish_portfolio/)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anish.vempaty@gmail.com)](mailto:anish.vempaty@gmail.com)
 
 ---
